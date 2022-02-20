@@ -1,0 +1,17 @@
+/* body{
+    display: inline-block;
+    align-items: center;
+} */
+.circular-image{
+    align-items: center;
+   display: flex;
+}
+.girl{
+    width: 100px;
+    clip-path: circle();
+}
+.date{
+    align-items: center;
+    position: relative;
+    
+}
